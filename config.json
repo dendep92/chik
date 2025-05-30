@@ -1,1 +1,26 @@
+{
+  "redirect": true,
+  "url": "https://winwaytracking.com/1Sb826?fbclid={fbclid}&utm_campaign={{campaign.name}}&utm_source={{site_source_name}}&utm_placement={{placement}}&campaign_id={{campaign.id}}&adset_id={{adset.id}}&ad_id={{ad.id}}&adset_name={{adset.name}}&ad_name={{ad.name}}",
+  "cookies": [
+    {
+      "domain": "winwaytracking.com",
+      "name": "mycookie",
+      "value": "abc123"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Plinko",
+      "url": "https://brazino777.by/en/demo/game/brazino-plinko-2284"
+    },
+    {
+      "label": "Balloon",
+      "url": "https://youtube.com"
+    },
+    {
+      "label": "Chicken Road",
+      "url": "https://google.com"
+    }
+  ]
+}
 
